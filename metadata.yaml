@@ -1,0 +1,33 @@
+_repo: Life-of-Tecumseh-and-of-His-Brother-the-ProphetWith-a-Historical-Sketch-of-the-Shawanoe-India__15581
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drake, Benjamin
+    birthdate: 1794
+    deathdate: 1841
+    gutenberg_agent_id: '6138'
+    url: http://www.gutenberg.org/2009/agents/6138
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Drake
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2005-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shawnee Indians -- Biography'
+- !lcsh 'Tecumseh, Shawnee chief, 1768-1813'
+- !lcsh 'Tenskwatawa, Shawnee Prophet'
+- !lcsh 'Shawnee Indians -- Kings and rulers -- Biography'
+- !lcc 'E011'
+title: 'Life of Tecumseh, and of His Brother the Prophet
+
+  With a Historical Sketch of the Shawanoe Indians'
+url: http://www.gutenberg.org/ebooks/15581
